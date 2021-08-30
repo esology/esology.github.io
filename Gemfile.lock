@@ -85,7 +85,6 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (~> 4.2.0)
   jekyll-feed (~> 0.12)
   jekyll-theme-basically-basic
   minima (~> 2.5)

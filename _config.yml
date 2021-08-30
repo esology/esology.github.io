@@ -22,7 +22,7 @@ url: # the base hostname & protocol for your site e.g. "https://mmistakes.github
 author:
   name:
   picture:
-github_username:
+github_username: esology
 logo: /assets/images/logo.png
 search: # true, false (default)
 search_full_content: false # true, false (default)
